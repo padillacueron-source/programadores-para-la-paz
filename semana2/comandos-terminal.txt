@@ -1,0 +1,17 @@
+7 pregunta: Abre el archivo comandos-terminal.txt y escribe los comandos que utilizaste durante esta actividad.
+Respuesta:
+mkdir semana2
+cd programadores-paz-nikhol
+nano reflexión-semana2.txt
+nano preguntas-semana2.txt
+nano comandos-terminal.txt
+cat preguntas-semana2.txt
+touch pregunta-semana2.txt
+touch reflexión-semana2.txt
+touch comando-terminal.txt
+ls 
+git status
+git add.
+git commit -m "Actividad semana 2"
+git push
+
