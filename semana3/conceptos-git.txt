@@ -1,0 +1,15 @@
+Pregunta 7 — Explicar conceptos básicos de Git
+Respuesta:
+Repositorio: Yo entiendo el repositorio como el lugar donde vive todo mi proyecto. 
+Es como una carpeta inteligente donde se guardan los archivos, los cambios y hasta 
+el historial de lo que voy haciendo. Para mí, se parece mucho a cuando uno guarda 
+fotos importantes en álbumes organizados para no perder recuerdos.
+Commit: Un commit es como tomarle una “foto” a mi avance en cierto momento. 
+Por ejemplo, si hoy arreglé un error o agregué una nueva parte al proyecto, 
+hago un commit para dejar guardado exactamente cómo quedó. 
+Así, si algo sale mal después, puedo volver atrás y recuperar lo que ya funcionaba.
+Push: El push es cuando envío mis cambios al repositorio en internet, como GitHub.
+Yo lo veo como subir una tarea a la nube después de haber trabajado en ella 
+en mi computador. Gracias al push, otras personas pueden ver mi trabajo y también 
+queda respaldado, aunque mi equipo falle.
+

@@ -1,0 +1,17 @@
+Pregunta 9 — Reflexión de la semana 3 
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+Respuesta: En mi opinión, es muy importante que los proyectos de software 
+mantengan un registro de cambios con herramientas como Git porque así nada 
+del trabajo se pierde y todo queda organizado. Yo lo comparo con cuando uno 
+escribe un diario o guarda fotos importantes en el celular, porque ahí quedan
+ recuerdos de cada momento y uno puede volver a ver cómo eran las cosas antes.
+En programación pasa algo parecido: cada cambio que hacemos queda guardado y eso ayuda
+muchísimo cuando cometemos errores. Por ejemplo, si dañé una parte del código
+intentando arreglar otra, Git me permite regresar a una versión anterior sin tener
+que empezar desde cero.
+También sirve mucho cuando varias personas trabajan en el mismo proyecto, 
+porque todos pueden ver qué modificó cada uno y evitar confusiones. 
+Es como cuando en una casa hacen una lista de quién compró algo para no repetir 
+gastos.
+Siento que Git no solo organiza proyectos, sino que también da tranquilidad, 
+porque uno sabe que su esfuerzo está protegido y que siempre puede revisar su progreso paso a paso.
